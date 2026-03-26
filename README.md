@@ -1,43 +1,118 @@
-<h1 align="center">Hi 👋, I'm Cedrick</h1>
-<h3 align="center">I am John Cedrick P. Alingod, a passionate developer skilled in full-stack development, database management, and API integrations. I enjoy tackling complex problems, building practical solutions, and learning new technologies along the way. My journey in tech began with a BS in Information Technology, and I continue to grow through real-world projects and self-driven learning.</h3>
-<br>
+<!-- 🔥 ANIMATED HEADER -->
 
-<h3 align="left">Education</h3>
-<p align="left">BS Information Technology</p>
-<p align="left">New Era University</p>
-<p align="left">2021-Present</p>
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Cedrick+👋;Full-Stack+Developer;API+Builder;Always+Learning+🚀" />
+</p>
 
-<h3 align="left">Projects & Experience</h3>
-<ul align="left">
-  <li><b>HRIS Website for SIA</b> – Collaborative project using <i>Lovable AI</i> to streamline HR processes with authentication, employee data management, and reporting. Built with React, Tailwind CSS, and Vite.</li>
-  <li><b>E-Commerce Website</b> – Solo project for a friend's business using <i>Lovable AI</i>, featuring product management, cart functionality, and payment integration. Implemented with React, Tailwind CSS, and modern frontend tooling.</li>
-  <li><b>Python API App</b> – Developed an application integrating multiple APIs including a fake data generator, calculator, SMS texting, and URL shortener. Hands-on experience with REST APIs, JSON parsing, and API authentication.</li>
-  <li><b>Database Projects</b> – Designed and managed relational databases using IBM DB2 Cloud and Supabase, including Google authentication integration and real-time database updates.</li>
-  <li><b>Learning & Automation Projects</b> – Practiced coding and scripting using Bash, Python, PHP, and SQL to automate tasks, manipulate data, and improve workflows.</li>
-  <li><b>Frontend Skills</b> – Built responsive UI components using HTML, CSS, Tailwind CSS, React, and Vite across multiple projects.</li>
-</ul>
-<br>
+<!-- 🌑 PROFILE VIEWS + BADGES -->
 
-<h3 align="left">Certifications</h3>
-<ul align="left">
-  <li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4D1148BA7A8D36B850E6CB2D574AAC24D542304E062049CBCD15845220025C60&fbclid=IwAR3pQDRUVQIGx7KLpzGmI-Nl1lK-_MijRMVhRmEJYl7ZCcluiEH0yRQrWvI">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a></li>
-  <li><a href="#">Oracle Cloud Data Management 2023 Certified Foundations Associate</a> (upcoming)</li>
-  <li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0E3C8FC42DFF2C814FD4C9E1CAC072C0F3627ED63C539A09F8A327C740A69296&fbclid=IwAR33-xH6">Oracle Cloud Infrastructure 2023 Certified Foundations Associate</a></li>
-  <li><a href="#">SQL and Relational Databases 101</a> (upcoming)</li>
-</ul>
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=1f6feb&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=238636" />
+  <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=f85149" />
+</p>
 
-<h3 align="left">Skill Sets</h3>
-<ul align="left">
-  <li><b>Programming:</b> Java, JavaScript, Bash, Python, PHP</li>
-  <li><b>Frontend & UI:</b> HTML, CSS, Tailwind CSS, React, Vite</li>
-  <li><b>Databases:</b> IBM DB2 Cloud, Supabase, SQL</li>
-  <li><b>Web & API:</b> REST APIs, API authentication, Google OAuth, JSON, URL shorteners, SMS integration</li>
-  <li><b>Tools:</b> Lucidchart, Jaspersoft Studio, Eclipse, HTML</li>
-</ul>
-<br>
+---
 
-<h3 align="left">Contact Me</h3>
-<p align="left">LinkedIn: <a href="https://www.linkedin.com/in/johncedrickalingod021">www.linkedin.com/in/johncedrickalingod021</a></p>
-<p align="left">Email: johncedrickalingod021@gmail.com</p>
+# 🌑 About Me
+
+```diff
++ BS Information Technology student
++ Full-stack developer (React, APIs, Databases)
++ Loves building real-world systems
++ Constantly improving and learning
+```
+
+I am **John Cedrick P. Alingod**, a developer focused on building scalable applications and solving real-world problems through code.
+
+---
+
+# ⚡ Tech Stack
+
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge\&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge\&logo=php)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge\&logo=gnubash)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge\&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge\&logo=vite)
+
+### 🗄 Databases
+
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge\&logo=supabase)
+![IBM DB2](https://img.shields.io/badge/DB2-0d1117?style=for-the-badge\&logo=ibm)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge)
+
+### 🛠 Tools
+
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge\&logo=figma)
+![Pentaho](https://img.shields.io/badge/Pentaho-0d1117?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-0d1117?style=for-the-badge\&logo=microsoft-excel)
+![Word](https://img.shields.io/badge/Word-0d1117?style=for-the-badge\&logo=microsoft-word)
+
+---
+
+# 🚀 Projects
+
+### 🔹 HRIS Website
+
+✔ Authentication
+✔ Employee Management
+✔ Reports
+
+### 🔹 E-Commerce Website
+
+✔ Cart System
+✔ Product Management
+✔ Payment Integration
+
+### 🔹 Python API App
+
+✔ SMS API
+✔ URL Shortener
+✔ Calculator
+✔ Data Generator
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 Email: [johncedrickalingod021@gmail.com](mailto:johncedrickalingod021@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/johncedrickalingod021
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+</p>

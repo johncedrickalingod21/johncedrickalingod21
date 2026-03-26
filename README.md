@@ -49,21 +49,22 @@ I am John Cedrick P. Alingod, a developer focused on building scalable applicati
 
 <h2 style="color:#58A6FF;">🚀 Projects</h2>
 
-🔹 HRIS Website
-✔ Authentication
-✔ Employee Management
-✔ Reports
-
-🔹 E-Commerce Website
-✔ Cart System
-✔ Product Management
-✔ Payment Integration
-
-🔹 Python API App
-✔ SMS API
-✔ URL Shortener
-✔ Calculator
-✔ Data Generator
+🔹 HRIS Website <br>
+✔ Authentication <br>
+✔ Employee Management <br>
+✔ Reports <br>
+<br>
+🔹 Python API App <br>
+✔ SMS API <br>
+✔ URL Shortener <br>
+✔ Calculator <br>
+✔ Data Generator <br>
+<br>
+ONGOING PROJECT <br>
+🔹 E-Commerce Website <br>
+✔ Cart System <br>
+✔ Product Management <br>
+✔ Payment Integration <br>
 
 <h2 style="color:#58A6FF;">📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=johncedrickalingod21&show_icons=true&theme=github_dark&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncedrickalingod21&layout=compact&theme=github_dark&hide_border=true" /> </p>
 <h2 style="color:#58A6FF;">🔥 Streak Stats</h2> <p align="center"> <img src="https://streak-stats.demolab.com?user=johncedrickalingod21&theme=github-dark&hide_border=true" /> </p>

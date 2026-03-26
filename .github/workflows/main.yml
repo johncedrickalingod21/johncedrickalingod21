@@ -1,0 +1,15 @@
+name: Snake animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: platane/snk@v1.1.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
